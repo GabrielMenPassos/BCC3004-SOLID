@@ -1,9 +1,10 @@
 # - O que é?
-Uma classe deve ter apenas função no sistema.
+O comportamento de uma classe pode ser estendida sem modificar o codigo-fonde.
+
 
 # - Para que serve?
-Ajuda a deixar o código mais organizado. O principio evita classes grandes e que fazem muitas coisas diferentes.
+Tornar o codigo mais flexivel, permitindo novos comportamentos sem alterações no codigo existente.
 
 # - Explicação do Exemplo:
-"Usuario", tem a unica função de representar um user. No caso o SRP é usado pois se precisarmos mudar a forma da função "print()", não é necessario modificar a classe "Usuario".
+No exemplo, "operacaoBinaria", permite que diferentes operações sejam passadas como argumento sem modificar a função principal.
 
