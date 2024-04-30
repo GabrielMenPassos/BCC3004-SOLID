@@ -24,6 +24,9 @@ Vocês poderão escolher entre os 7 seguintes princípios (SOLID +2):
     Prefira Composição a Herança
     Demeter 
 
-# **LINKS**
+<p align="center"><strong>LINKS</strong></p>
 
-[Single Responsibility Principle](Single-Responsibility-Principle/srp.cpp)
+[Single Responsibility Principle](./Single-Responsibility-Principle/srp.cpp)
+[Open Closed Principle](./Open-Closed-Principle/ocp.cpp)
+[Liskov Substitution Principle](./Liskov-Substitution-Principle/lsp.cpp)
+[Interface Segregation Principle](./Interface-Segregation-Principle/isp.cpp)
